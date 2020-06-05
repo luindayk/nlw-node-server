@@ -1,3 +1,5 @@
 node_modules/
 
+uploads/points/*
+
 src/database/database.sqlite
